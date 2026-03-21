@@ -17,8 +17,6 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 ## 🧠 Tech Stack
 
-<div align="center">
-
 <!-- Row 1 -->
 <span style="display:inline-block; width:45%; vertical-align:top;">
 <b>🖥️ Frontend</b><br/>
