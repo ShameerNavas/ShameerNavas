@@ -1,6 +1,8 @@
 # Hi there, I'm Shameer Navas 👋
 
-![Full Stack Developer Banner][photo_2026-03-21_17-02-24](https://github.com/user-attachments/assets/225c6f87-2ebf-40c3-8927-9bc4d1175c99)
+<p align="center">
+  <img src="./photo_2026-03-21_17-02-24.jpg" alt="Full Stack Developer Banner" width="800"/>
+</p>
 
 ---
 
@@ -17,21 +19,33 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 ## 🧠 Tech Stack
 
-### Frontend
-- HTML, CSS, Bootstrap  
-- JavaScript, React.js  
-- Axios, Redux  
+<div align="center">
 
-### Backend
-- C#, ASP.NET Core (MVC, Web API)  
-- REST API Development  
+<!-- Row 1 -->
+<span style="display:inline-block; width:45%; vertical-align:top;">
+<b>🖥️ Frontend</b><br/>
+HTML, CSS, Bootstrap, JavaScript, React.js, Axios, Redux
+</span>
 
-### Database
-- SQL Server  
+<span style="display:inline-block; width:45%; vertical-align:top;">
+<b>⚙️ Backend</b><br/>
+C#, ASP.NET Core (MVC, Web API), REST APIs
+</span>
 
-### Tools
-- Visual Studio, VS Code  
-- Git, Swagger  
+<br/><br/>
+
+<!-- Row 2 -->
+<span style="display:inline-block; width:45%; vertical-align:top;">
+<b>🗄️ Database</b><br/>
+SQL Server
+</span>
+
+<span style="display:inline-block; width:45%; vertical-align:top;">
+<b>🛠️ Tools</b><br/>
+Visual Studio, VS Code, Git, Swagger
+</span>
+
+</div>
 
 ---
 
@@ -46,47 +60,13 @@ Full-stack web application for managing recipes with authentication and admin fe
 - Integrated frontend with backend using Axios
 
 👉 [GitHub Repository](#)  
-👉 [Live Demo](#) *(Add after deployment)*
-
----
-
-### 🔗 Bookmark Management System
-.NET MVC application for managing bookmarks with authentication and pagination.
-
-- Built using ASP.NET MVC and SQL Server
-- Implemented CRUD operations and authentication
-- Used Entity Framework Core for data handling
-
-👉 [GitHub Repository](#)
-
----
-
-### 🔗 Daily Water Intake Tracker
-Frontend application to track daily water consumption.
-
-- Built with React.js
-- Implemented responsive UI and date filtering
-- Used localStorage for persistence
-
-👉 [GitHub Repository](#)
-
----
-
-## 📜 Certifications
-
-- 🎓 C# Mastering Course for Intermediates – Udemy (2025)  
-  Covered OOP concepts, exception handling, and debugging techniques.
+👉 [Live Demo](https://recipe-ducwabaegshtc8f7.westeurope-01.azurewebsites.net) 
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 💻 GitHub: https://github.com/yourusername  
+- 📧 Email: shameernavas10@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/shameer-navas  
 
----
 
-## ⚡ Fun Fact
-
-I enjoy building real-world applications and continuously improving my skills in .NET and full-stack development 🚀
