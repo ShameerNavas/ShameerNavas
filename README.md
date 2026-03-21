@@ -10,15 +10,16 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 - 💻 Skilled in React.js, ASP.NET Core, C#, SQL Server
 - 🔧 Experienced in RESTful API development, JWT authentication, and CRUD systems
-- 📍 Currently in Riyadh with transferable Iqama
 - 🚀 Actively seeking Junior Software Developer / .NET roles
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Database:** SQL Server, Azure SQL  
-**Backend:** C#, ASP.NET Core (MVC, Web API)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tools:** Visual Studio, VS Code, Git, Swagger, Azure
+✔ **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
+✔ **Backend:** C#, ASP.NET Core (MVC, Web API, Entity Framework Core)  
+✔ **Database:** SQL Server, Azure SQL  
+✔ **Tools & Deployment:** Visual Studio, VS Code, Git, GitHub Actions (CI/CD), Swagger, Netlify, Azure App Service
 
 ---
 
@@ -27,10 +28,10 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 ### 🔗 Recipe Management System
 Full-stack web application for managing recipes with authentication and admin features.
 
-- Built responsive frontend using React.js, Redux, React Router
-- Developed RESTful APIs using ASP.NET Core Web API
-- Implemented JWT authentication & role-based authorization
-- Integrated frontend with backend using Axios
+- Developed responsive frontend using React.js, Redux, and React Router for dynamic UI.
+- Built scalable RESTful APIs with ASP.NET Core Web API and Entity Framework Core.
+- Implemented JWT-based authentication and role-based authorization for secure access control.
+- Integrated frontend and backend using Axios and deployed using CI/CD (GitHub Actions, Netlify, Azure).
 
 👉 [GitHub Repository](https://github.com/ShameerNavas/RECIPE-Management-Frontend)  
 👉 [Live Demo](https://my-recipe-demo.netlify.app)
