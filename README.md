@@ -10,7 +10,6 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 - 💻 Skilled in React.js, ASP.NET Core, C#, SQL Server
 - 🔧 Experienced in RESTful API development, JWT authentication, and CRUD systems
-- 🚀 Actively seeking Junior Software Developer / .NET roles
 
 ---
 
@@ -25,15 +24,10 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 ## 💻 Featured Projects
 
-### 🔗 Recipe Management System
+### 🔗 Recipe Management System | [GitHub](https://github.com/ShameerNavas/RECIPE-Management-Frontend) | [Live Demo](https://my-recipe-demo.netlify.app)
 Full-stack web application for managing recipes with authentication and admin features.
 
 - Developed responsive frontend using React.js, Redux, and React Router for dynamic UI.
 - Built scalable RESTful APIs with ASP.NET Core Web API and Entity Framework Core.
 - Implemented JWT-based authentication and role-based authorization for secure access control.
 - Integrated frontend and backend using Axios and deployed using CI/CD (GitHub Actions, Netlify, Azure).
-
-👉 [GitHub Repository](https://github.com/ShameerNavas/RECIPE-Management-Frontend)  
-👉 [Live Demo](https://my-recipe-demo.netlify.app)
-
----
