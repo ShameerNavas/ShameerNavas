@@ -17,8 +17,8 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 ## 🧠 Tech Stack
 
-**Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js                    **Database:** SQL Server, Azure SQL  
-**Backend:** C#, ASP.NET Core (MVC, Web API)                                **Tools:** Visual Studio, VS Code, Git, Swagger, Azure
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Database:** SQL Server, Azure SQL  
+**Backend:** C#, ASP.NET Core (MVC, Web API)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tools:** Visual Studio, VS Code, Git, Swagger, Azure
 
 ---
 
