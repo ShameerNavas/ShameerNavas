@@ -17,7 +17,7 @@ I'm a Junior Software Developer (.NET) based in Riyadh, Saudi Arabia, with hands
 
 ✔ **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
 ✔ **Backend:** C#, ASP.NET Core (MVC, Web API, Entity Framework Core)  
-✔ **Database:** SQL Server, Azure SQL Database 
+✔ **Database:** SQL Server, Azure SQL Database           
 ✔ **Tools & Deployment:** Visual Studio, VS Code, Git, GitHub Actions (CI/CD), Swagger, Netlify, Azure App Service
 
 ---
